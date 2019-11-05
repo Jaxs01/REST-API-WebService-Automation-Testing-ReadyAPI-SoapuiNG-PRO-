@@ -1,0 +1,7 @@
+Customers.xml
+%7BcustomerId%7D.xml
+orders.xml
+%7BorderId%7D.xml
+products.xml
+%7BproductId%7D.xml
+TestSuite-1-Couchbase\TestCase-1--get-JDCB.xml
